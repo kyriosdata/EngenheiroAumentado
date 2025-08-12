@@ -7,3 +7,7 @@ Como podemos turbinar nossa efetividade como Engenheiros de Software usando LLMs
 
 Área voltada para a produção e evolução de software com [corpo de conhecimento](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 bem-definido.
+
+# Comece por aqui...
+
+Temos uma [estratégia](docs/estrategia.md).
