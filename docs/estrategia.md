@@ -12,7 +12,8 @@ Nesta disciplina, vocês "não serão estudantes", mas pioneiros explorando a En
 
 Toda grande inovação começa com uma ideia. Frequentemente, essa ideia é vaga e caótica. A sua primeira missão é transformar o caos em clareza.
 
-* **Atividade:** Vocês serão divididos em equipes de "consultoria de inovação". Cada equipe receberá uma ideia de negócio ambígua e uma "gravação" de 5 minutos de uma reunião caótica com o "cliente".
+* **Atividade:** Vocês serão divididos em equipes de "consultoria de inovação". Cada equipe receberá uma ideia de negócio ambígua e uma "gravação" de 5 minutos de uma reunião caótica com o "cliente". A ideia e a gravação não foram criadas artificialmente para dificultar, de fato, é cenário comum e, em particular, nesse caso, real. Veja aqui a [ideia](ideia.md).
+
 * **Sua Missão com LLM:** Atuem como consultores de ponta. Usem LLMs para:
     1.  **Analisar o Mercado:** Realizar a Fase 0, pesquisando o cenário, concorrentes e tendências para validar a ideia.
     2.  **Decifrar o Cliente:** Transcrever a gravação da reunião e extrair os requisitos funcionais, não funcionais e as restrições do projeto.
