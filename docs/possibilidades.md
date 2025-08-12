@@ -10,7 +10,7 @@
 
 **Saídas esperadas:** relatório resumido de oportunidades, análise SWOT preliminar, mapeamento de concorrentes e tendências, hipóteses iniciais de produto ou solução.
 
-## Fase 1 – Levantamento de Requisitos com o Cliente (detalhada)
+## Fase 1 – Levantamento de requisitos com o Cliente (detalhada)
 
 **Objetivo:** transformar ideias soltas em um conjunto claro de requisitos que permita avaliar a viabilidade técnica, econômica e estratégica do projeto.
 

@@ -18,9 +18,7 @@ A OMS estabeleceu valores de referência padronizados para diferentes grupos pop
 2. Vigilância Comunitária:
 A anemia afeta cerca de 25% da população mundial, com maior impacto em mulheres e crianças Emerging Point-of-Care Technologies for Anemia Detection - PMC, tornando essencial o desenvolvimento de ferramentas de detecção em nível comunitário.
 3. Tecnologias Point-of-Care:
-A OMS promove o uso de dispositivos de diagnóstico rápido para hemograma em cenários comunitários. Estudos mostram a precisão diagnóstica de dispositivos point-of-care para detecção de anemia em configurações comunitárias Diagnostic accuracy of point-of-care devices for detection of anemia in community settings in India | BMC Health Services Research | Full Text, incluindo dispositivos como HemoCue e outros equipamentos portáteis.
-4. Sistema de Informação Nutricional:
-A OMS mantém o Sistema de Informação de Paisagem Nutricional (NLiS) que coleta dados sobre anemia e outros indicadores nutricionais baseados em hemograma para monitoramento populacional.
+A OMS promove o uso de dispositivos de diagnóstico rápido para hemograma em cenários comunitários. Estudos mostram a precisão diagnóstica de dispositivos point-of-care para detecção de anemia em configurações comunitárias Diagnostic accuracy of point-of-care devices for detection of anemia in community settings in India | BMC Health Services Research.
 
 Os hemogramas serão recebidos pela SES-GO por meio do padrão FHIR e 
 estarão registrados por meio de instâncias de recursos Observation em JSON. A intenção é implementar um Sistema de Vigilância Populacional ou um CDSS (Clinical Decision Support System) que gere alertas

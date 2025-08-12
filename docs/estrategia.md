@@ -18,7 +18,7 @@ Toda grande inovação começa com uma ideia. Frequentemente, essa ideia é vaga
     1.  **Analisar o Mercado:** Realizar a Fase 0, pesquisando o cenário, concorrentes e tendências para validar a ideia.
     2.  **Decifrar o Cliente:** Transcrever a gravação da reunião e extrair os requisitos funcionais, não funcionais e as restrições do projeto.
     3.  **Propor Soluções:** Gerar uma lista de perguntas inteligentes para esclarecer as dúvidas e escrever as primeiras Histórias de Usuário.
-* **Critério de Sucesso:** A sua avaliação será a qualidade do **Relatório de Viabilidade** que vocês apresentarão ao "cliente" (seu professor). Sua capacidade de usar o LLM para encontrar insights e depois validar e refinar esses insights criticamente será a chave para o sucesso.
+* **Critério de Sucesso:** A sua avaliação será a qualidade do **Relatório de Viabilidade** que vocês apresentarão ao "cliente". Sua capacidade de usar o LLM para encontrar insights e depois validar e refinar esses insights criticamente será a chave para o sucesso.
 
 ---
 
@@ -35,13 +35,15 @@ Com os requisitos aprovados, é hora de construir. Mas vocês farão isso em vel
 
 ---
 
-### Missão 3: Cenário de "Crise em Produção" (Fases 5, 6 e 7)
+### Missão 3: Cenário de "Aceitação ampla" (Fases 5, 6 e 7)
 
-Alerta vermelho! Um sistema foi para produção, mas está instável, cheio de bugs e os usuários estão reclamando. A equipe de SRE (Site Reliability Engineering) foi acionada. Essa equipe são vocês.
+Antes de ir para produção é necessário verificar de forma criteriosa se a solução atende o esperado.
+Também é imprescindível que possa ser implantada com certa facilidade e acompanhada de um
+plano de manutenção. 
 
-* **Atividade:** Vocês receberão acesso a um pequeno sistema com bugs deliberados, logs de erro confusos e sem uma suíte de testes adequada.
-* **Sua Missão com LLM:** Sua tarefa é resgatar o projeto e restaurar a confiança do usuário. Usem LLMs para:
-    1.  **Caçar os Bugs:** Analisem o código para gerar casos de teste (unitários e de integração) que exponham as falhas.
+* **Atividade:** É preciso assegurar que o que foi realizado atende o que é esperado, conforme esperado.
+* **Sua Missão com LLM:** Usem LLMs para:
+    1.  **Caçar os Bugs:** Analisar o código para gerar casos de teste (unitários e de integração) que exponham as falhas, inclusive testes funcionais, possivelmente para gerar dados em saúde, eventuais relatórios adequados para consumo de profissionais de saúde.
     2.  **Diagnosticar a Causa Raiz:** Analisem os logs de erro para identificar a origem dos problemas e peçam sugestões de correção.
     3.  **Entregar a Solução:** Após corrigir os bugs, gerem scripts para automatizar o deploy da nova versão e criem uma documentação clara para o usuário final sobre as melhorias.
 * **Critério de Sucesso:** A sua capacidade de resolver um problema real sob pressão. Vocês serão avaliados pela eficácia das correções e pela qualidade dos artefatos gerados (testes, scripts, documentação), comparando a cobertura de testes e a estabilidade do sistema antes e depois da sua intervenção.
