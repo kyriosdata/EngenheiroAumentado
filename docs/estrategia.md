@@ -4,7 +4,8 @@ Temos um desafio: "Como podemos nos tornar 'Engenheiros de Software Aumentados',
 
 ### Boas-vindas
 
-Nesta disciplina, vocês "não serão estudantes", mas pioneiros explorando a Engenharia de Software empoderada pelo uso de LLMs. 
+Nesta disciplina, vocês "não serão estudantes", mas pioneiros explorando a Engenharia de Software empoderada pelo uso de LLMs
+para executar várias [atividades](possibilidades.md) divididas em fases.
 
 ---
 
