@@ -1,4 +1,4 @@
-### Estratégia Pedagógica Geral: "O Desafio do Engenheiro Aumentado"
+### O Desafio do Engenheiro Aumentado
 
 Temos um desafio: "Como podemos nos tornar 'Engenheiros de Software Aumentados', usando LLMs para sermos mais rápidos, criativos e estratégicos?". 
 
