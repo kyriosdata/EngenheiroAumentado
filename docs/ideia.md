@@ -1,3 +1,7 @@
+## Visão geral de hemogramas
+
+- Profa. Ana Laura ([vídeo](https://drive.google.com/file/d/11Mu27n1Av6A4__0fBmQ-vCtoo64JtKyJ/view?usp=drive_link)
+- 
 ## Ideia de negócio: monitoramento de hemogramas
 
 A Secretaria de Estado de Saúde de Goiás (SES-GO) estará recebendo,
