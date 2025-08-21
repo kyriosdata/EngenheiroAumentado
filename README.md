@@ -1,7 +1,10 @@
 # EngenheiroAumentado
 Como podemos turbinar nossa efetividade como Engenheiros de Software usando LLMs?
 
-> Este é o laboratório do Engenheiro de Software Aumentado, onde exploramos e construímos a nossa profissão com o apoio das LLMs.
+> Este é o laboratório do Engenheiro de Software Aumentado, onde exploramos e construímos a nossa habilidade de produzir software com o apoio das LLMs.
+
+O plano da disciplina encontra-se [aqui](docs/plano-topicos.pdf).
+
 
 # Engenharia de Software
 
