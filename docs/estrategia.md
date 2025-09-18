@@ -11,14 +11,17 @@ para executar várias [atividades](possibilidades.md) divididas em fases e organ
 
 ### Missão 1: A Simulação de Consultoria (Fases 0 e 1)
 
-Toda grande inovação começa com uma ideia. Frequentemente, essa ideia é vaga e caótica. A sua primeira missão é transformar o caos em clareza.
+Toda grande inovação começa com uma ideia. Frequentemente, essa ideia é vaga e caótica. A sua primeira missão é identificar uma ideia de uso de hemogramas em um contexto estadual e transformar o caos (ideia) em clareza.
 
-* Atividade: vocês serão divididos em equipes de "consultoria de inovação". Cada equipe receberá uma ideia de negócio ambígua e uma "gravação" de 5 minutos de uma reunião caótica com o "cliente". A ideia e a gravação não foram criadas artificialmente para dificultar, de fato, é cenário comum e, em particular, nesse caso, real. Veja aqui a [ideia](ideia.md).
+* Atividade: vocês serão divididos em equipes de "consultoria de inovação". Uma "gravação" de cerca de 30 minutos, de uma reunião caótica com o "cliente", será disponibilizada para inspirar trabalhos (ideias). A gravação não foi criada artificialmente para dificultar, de fato, é cenário comum e, em particular, nesse caso, real. Veja aqui a [ideia](ideia.md).
 
-* Sua Missão com LLM: atuem como consultores de ponta. Usem LLMs para:
+* Primeiro: qual o trabalho (ideia) que o grupo tem para o domínio dos hemogramas?
+
+* Segundo. Sua Missão com LLM: atuem como consultores de ponta com base em uma ideia que o grupo deverá identificar e trabalhar. Usem LLMs para:
     1.  Analisar o Mercado: realizar a Fase 0, pesquisando o cenário, concorrentes e tendências para validar a ideia.
     2.  Decifrar o Cliente: transcrever a gravação da reunião e extrair os requisitos funcionais, não funcionais e as restrições do projeto.
     3.  Propor Soluções: gerar uma lista de perguntas inteligentes para esclarecer as dúvidas e escrever as primeiras Histórias de Usuário.
+
 * Critério de Sucesso: a sua avaliação será a qualidade do Relatório de Viabilidade que vocês apresentarão ao "cliente". Sua capacidade de usar o LLM para encontrar insights e depois validar e refinar esses insights criticamente será a chave para o sucesso.
 
 ---
