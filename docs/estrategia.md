@@ -24,6 +24,8 @@ Toda grande inovação começa com uma ideia. Frequentemente, essa ideia é vaga
 
 * Critério de Sucesso: a sua avaliação será a qualidade do Relatório de Viabilidade que vocês apresentarão ao "cliente". Sua capacidade de usar o LLM para encontrar insights e depois validar e refinar esses insights criticamente será a chave para o sucesso.
 
+Caso queira um exemplo: [Sistema de previsão de demanda hematológica](./previsao-demanda-hematologia.md).
+
 ---
 
 ### Missão 2: Hackathon "Do Requisito ao Protótipo em 48h" (Fases 2, 3 e 4)
