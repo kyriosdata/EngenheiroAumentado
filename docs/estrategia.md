@@ -26,7 +26,7 @@ Toda grande inovação começa com uma ideia. Frequentemente, essa ideia é vaga
 
 Caso queira um exemplo: [Sistema de previsão de demanda hematológica](./previsao-demanda-hematologia.md).
 É fácil encontrar vários modelos de hemograma disponíveis na internet. Caso queira uma lista dos 24 "itens de informação" coletados,
-você pode identificá-los [aqui](https://fhir.saude.go.gov.br/r4/exame/hemograma.html).
+você pode identificá-los [aqui](https://fhir.saude.go.gov.br/r4/exame/hemograma.html#exames-simples-todos-eles).
 
 ---
 
