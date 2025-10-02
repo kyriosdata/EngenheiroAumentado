@@ -29,6 +29,19 @@ Caso queira um exemplo: [Sistema de previsão de demanda hematológica](./previs
 você pode identificá-los [aqui](https://fhir.saude.go.gov.br/r4/exame/hemograma.html#exames-simples-todos-eles).
 
 ---
+Talvez seja útil comparar seu uso de LLMs para realizar a missão 1 com as sugestões abaixo. Talvez você possa "turbinar"
+sua forma de interação com estes modelos.
+
+#### Prompt Engineering for Generative AI, James Phoenix, Mike Taylor, O’Reilly, 2024.
+
+Abaixo seguem 6 princípios de prompts, sendo os 5 primeiros da referência acima. O sexto é um acréscimo considerado oportuno por muitos.
+
+- Dê direcionamento. Descreva o estilo desejado em detalhes, ou referencie uma persona relevante. Exemplo: "Responda como um médico experiente explicando para um paciente leigo, usando linguagem simples e empática."
+- Especifique o formato. Defina quais regras seguir e a estrutura obrigatória da resposta. Exemplo: "Forneça a resposta em 3 parágrafos: 1) Definição, 2) Causas principais, 3) Soluções práticas."
+- Forneça exemplos. Insira um conjunto diverso de casos de teste onde a tarefa foi executada corretamente. Exemplo: "Classifique estas emoções: 'Estou radiante hoje!' → Alegria | 'Que decepção terrível' → Tristeza"
+- Avalie a qualidade. Identifique erros e classifique respostas, testando o que impulsiona o desempenho. Exemplo: "Avalie sua resposta de 1-10 considerando clareza, precisão técnica e utilidade prática."
+- Divida o trabalho. Fragmente tarefas em múltiplas etapas, encadeadas para objetivos complexos. Exemplo: "Primeiro analise o problema, depois liste 3 soluções, então compare prós e contras de cada uma."
+- Estabeleça restrições. Defina claramente limitações, escopo e o que NÃO deve ser feito na resposta. Exemplo: "Responda em máximo 100 palavras, sem usar jargões técnicos ou mencionar marcas específicas."
 
 ### Missão 2: Hackathon "Do Requisito ao Protótipo em 48h" (Fases 2, 3 e 4)
 
