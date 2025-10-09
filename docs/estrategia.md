@@ -50,9 +50,15 @@ Com os requisitos ou parte deles, possivelmente aprovados, é hora de construir.
 
 * Atividade: bem-vindos ao nosso hackathon! Usando os requisitos que sua equipe registrou (missão anterior), vocês terão 48 horas para dar vida a uma parte essencial do sistema. É possível que você tenha uma "visão clara" de um produto, mas a documentação dos requisitos não esteja completa. Nesse caso, será necessário identificá-los, pelo menos um conjunto suficiente para a primeira iteração.
 * Sua Missão com LLM: o desafio é claro: projetar e codificar uma funcionalidade central, usando LLMs de forma intensiva para acelerar cada etapa:
-    1.  Planejamento Ágil: transformem suas Histórias de Usuário em um backlog inicial e um plano de sprints. Sem uma lista de requisitos, neste caso, histórias de usuário, não terá muito o que fazer aqui.
+    1.  Planejamento Ágil: transformem suas Histórias de Usuário em um backlog inicial e um plano de sprints. Sem uma lista de requisitos não terá muito o que fazer aqui. Para ajudar aqui, alguns possíveis prompts...
+        1. "crie uma lista de histórias de usuário a partir da descrição da ideia (descreva ela aqui)".  
+        2. "Verifique minha lista de histórias de usuário. O conjunto está coerente?"
+        3. "crie um plano de sprints para a implementação das histórias de usuário. Este plano deve considerar uma equipe de 3 colaboradores, trabalhando 4 horas por semana perfazendo um total de 48 horas. Se for o caso, identifique quais histórias de usuário não podem ser implementadas tendo em vista o esforço disponível."
     2.  Arquitetura Inteligente: gerem diagramas de arquitetura (usando formatos como PlantUML ou Mermaid) e o esquema do banco de dados. A arquitetura, naturalmente, deve ser uma proposta de software que satisfaz os requisitos. 
-    3.  Codificação Aumentada: gerem o código-fonte da funcionalidade, scripts de integração e a documentação técnica.
+        1. "crie um diagrama de arquitetura que identifique os principais componentes necessários para implementação das histórias de usuário"
+        2. "gere a documentação correspondente para cada um dos componentes identificados".
+    3.  Revise o planejamento. Provavelmente o planejamento deve ser atualizado para refletir o conhecimento acumulado com a definição da arquitetura e dos componentes.
+    4.  Codificação Aumentada: gerem o código-fonte da funcionalidade, scripts de integração e a documentação técnica.
 * Critério de Sucesso: além do software funcional e os artefatos gerados para os demais itens acima, cada equipe deverá manter um "Diário de Bordo do Engenheiro Aumentado", registrando os prompts utilizados, os resultados (bons e ruins!), as lições aprendidas e uma estimativa do tempo economizado (caso não possua uma estimativa, deixe em branco). A criatividade e a eficiência no uso das ferramentas serão celebradas!
 
 ---
