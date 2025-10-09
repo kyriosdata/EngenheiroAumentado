@@ -1,3 +1,7 @@
+# Identifique-se
+
+Use a [planilha](https://docs.google.com/spreadsheets/d/1HJOyGjNRS-9_gFR11L9lQHMzMGCruFwh2lnEkEnYKTw/edit?usp=sharing) para identificar o seu grupo (mínimo de 1 e máximo de 5 membros). Identifique a URL do repositório Github correspondente ao trabalho prático da disciplina e os membros, o nome completo do estudante e o usuário Github correspondente.
+
 # EngenheiroAumentado
 Como podemos turbinar nossa efetividade como Engenheiros de Software usando LLMs?
 
