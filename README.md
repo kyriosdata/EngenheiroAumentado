@@ -15,6 +15,8 @@ O plano da disciplina encontra-se [aqui](docs/plano-topicos.pdf).
 Área voltada para a produção e evolução de software com [corpo de conhecimento](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 bem-definido.
 
+Alguns livros sobre arquitetura de software (uma [sugestão](docs/livros-arquitetura.png) apenas).
+
 # Comece por aqui...
 
 Temos uma [estratégia](docs/estrategia.md).
